@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "cse341_class_repo",
+  "version": "1.0.0",
+  "description": "Lesson 1 Assignment",
+  "main": "source.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdowns1999/CSE341_Class_Repo.git"
+  },
+  "author": "Mike Downs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdowns1999/CSE341_Class_Repo/issues"
+  },
+  "homepage": "https://github.com/mdowns1999/CSE341_Class_Repo#readme"
 }
